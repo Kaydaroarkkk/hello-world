@@ -1,2 +1,6 @@
 # hello-world
-Just another repository 
+
+Hi , guys
+
+im just a lame trying to learn !! 
+i love kittens !!
